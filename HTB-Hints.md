@@ -4,6 +4,8 @@
   A selection of hints for OSCP type boxes, you won't find the answer here so you'll still have to try yourself!
 </p>
 
+<h3>Blue</h3>
+
 <details>
 <summary>Hint 1</summary>
   Try using nmap scripts e.g. <b>nmap <ip> -p 139,445 --script=vuln</b>
