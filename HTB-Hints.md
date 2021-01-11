@@ -8,7 +8,7 @@
 
 <details>
 <summary>Hint 1</summary>
-  Try using nmap scripts e.g. <b>nmap <ip> -p 139,445 --script=vuln</b>
+  Try using nmap scripts e.g. <b>nmap &lt;ip&gt; -p 139,445 --script=vuln</b>
 </details>
   
 <details>
